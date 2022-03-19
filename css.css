@@ -355,7 +355,11 @@ body{
     margin-bottom: 25px;
 }
 .footer-div-div-p {
+    width: 300px;
     color: rgba(106, 133, 156, 1);
+    /* text-align-last: left; */
+    font-size: 14px;
+    line-height: 25px;
 }
 .footer-div-div-ul {
     text-decoration: none;
@@ -365,8 +369,6 @@ body{
     text-decoration: none;
     text-align: left;
     width: 300px;
-    padding:0 0 17 0px;
-    border-bottom: 1px solid rgba(213, 213, 224, 1);
     color: rgba(102, 140, 173, 1);
 }
 .footer-div-div-ul-li1 {
@@ -391,6 +393,13 @@ body{
     margin-top: 11.67px;
     max-width: 270px;
     margin-left: 18px;
+    margin-bottom: 4.3px;
+    background-color: rgba(213, 213, 224, 1);
+    
+}
+.footer-hr1{
+    margin-top: 11.67px;
+    max-width: 300px;
     margin-bottom: 4.3px;
     background-color: rgba(213, 213, 224, 1);
     
